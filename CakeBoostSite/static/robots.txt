@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /uploads/*
+ 
+User-agent: YandexImages
+Allow: /uploads/*
+
+Sitemap: https://cakeboost.com/sitemap.xml
